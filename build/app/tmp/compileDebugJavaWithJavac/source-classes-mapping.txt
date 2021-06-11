@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/pass_data_22_3_21/BuildConfig.java
+ com.example.pass_data_22_3_21.BuildConfig
